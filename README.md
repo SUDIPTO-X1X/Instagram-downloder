@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![API](https://img.shields.io/badge/API-Public-blue)
-![Author](https://img.shields.io/badge/Creator-JIND_UNIVER$E-purple)
+![Author](https://img.shields.io/badge/Creator-SUDIPTO-purple)
 
 **The most advanced, free-to-use Instagram Public Data API & Viewer.** Experience a futuristic **Glassmorphism UI** with **Cyber Touch Effects**, or use the raw API to build your own tools.
 
